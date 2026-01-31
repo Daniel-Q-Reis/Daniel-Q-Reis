@@ -6,9 +6,9 @@
 Brazil (UTC-3) · International Contractor (W-8BEN) · EN/PT/ES
 ---
 ## About Me
-**Full-Cycle Engineer** specializing in **Go**, **Python (Django)**, and **React/TypeScript** with focus on **Clean Architecture**, **Domain-Driven Design**, and **cloud-native systems**.
+**Backend Engineer** capable of delivering full-stack solution in **Go**, **Python (Django)**, and **React/TypeScript** with focus on **Clean Architecture**, **Domain-Driven Design**, and **cloud-native systems**.
 Career transition into software development (2025) with intensive hands-on training. Built **12+ projects** demonstrating rapid progression from fundamentals to enterprise-level architecture.
-**Background**: 10+ years in Operations & Quality Engineering — analytical thinking, systematic problem-solving, and attention to detail now applied to software architecture.
+**Background**: Several years in Operations & Quality Engineering — analytical thinking, systematic problem-solving, and attention to detail now applied to software architecture.
 ---
 ## Featured Project: HealthCore API
 [![HealthCore API](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/frontend/public/images/project/landingpage5173.png?raw=true)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
