@@ -12,19 +12,24 @@ Career transition into software development (2025) with intensive hands-on train
 ---
 ## Featured Project: HealthCore API
 [![HealthCore API](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/frontend/public/images/project/landingpage5173.png?raw=true)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
-**Enterprise Hospital Management Platform**  
-*Django + React/TypeScript · PostgreSQL · Redis · Kafka · Kubernetes · Terraform*
+**Enterprise Hospital Management Platform** — Production healthcare system with HIPAA-aligned architecture  
+*Django + Go + React/TypeScript · PostgreSQL · Redis · Kafka · MongoDB · Terraform · Azure*
+🚀 **[Live Demo](https://app.danielqreis.com/dqr-health)** · 👨‍💻 **[For Developers](https://app.danielqreis.com/dqr-health/developers)** — API Docs, Metrics & Endpoints
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
 [![Showcase](https://img.shields.io/badge/Full_Showcase-blue?style=flat-square)](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/SHOWCASE.md)
 [![CI](https://img.shields.io/github/actions/workflow/status/Daniel-Q-Reis/HealthCoreAPI/ci.yml?style=flat-square&label=CI)](https://github.com/Daniel-Q-Reis/HealthCoreAPI/actions)
-| Metric | Value |
-|--------|-------|
-| **Architecture** | Modular Monolith · 12 DDD Bounded Contexts · FHIR/HL7 Aligned |
-| **Frontend** | React 18 + TypeScript · Feature-Sliced Design · 23+ UI Components |
-| **Quality** | 90%+ Coverage · 250 Pytest Tests · MyPy Strict (0 errors) |
-| **DevOps** | Terraform · Helm Charts · Azure AKS · Prometheus · Grafana |
-| **Documentation** | 18+ ADRs · Critical Control Points (CCP) · HIPAA-ready |
-| **Performance** | 85% p99 reduction (180ms → 26ms) via N+1 elimination |
+### Key Achievements
+| Area | Highlights |
+|------|------------|
+| **Architecture** | Modular Monolith · 12 DDD Bounded Contexts · FHIR/HL7 Aligned · 23 ADRs |
+| **Polyglot Services** | Go 1.24 Audit Microservice · gRPC (Protocol Buffers) · <100ms latency |
+| **Frontend** | React 18 + TypeScript · Feature-Sliced Design · 25+ UI Components · Dark Mode |
+| **Infrastructure** | Terraform IaC · Azure Container Apps · Custom Domains · SSL/HTTPS · OAuth 2.0 |
+| **Performance** | 85% p99 reduction (180ms → 26ms) via N+1 elimination · Kafka event monitoring |
+| **Quality** | 283 tests · 90%+ coverage · MyPy strict (0 errors) · 100K+ lines of code |
+| **Observability** | Prometheus · Grafana Dashboards · Azure Application Insights · Structured Logging |
+| **Resilience** | Circuit Breaker (PyBreaker) · Idempotency Middleware · Retry Logic |
+| **AI Integration** | Gemini 2.5 (drug analysis) · GPT-4 (health recommendations) |
 ---
 ## Other Projects
 ### [DrugStore API](https://github.com/Daniel-Q-Reis/drugstore_api) — [LIVE DEMO](https://danielqreis.com)
@@ -35,16 +40,28 @@ Career transition into software development (2025) with intensive hands-on train
 **Go Concurrency Deep Dive** — Built without AI for deep understanding
 ---
 ## Tech Stack
+### Languages & Frameworks
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Architecture Patterns
+`Clean Architecture` · `Hexagonal (Ports & Adapters)` · `Domain-Driven Design` · `Feature-Sliced Design` · `Event-Driven` · `Microservices` · `Modular Monolith`
 ---
 ## GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Q-Reis&show_icons=true&theme=tokyonight&hide_border=true)
