@@ -23,9 +23,9 @@
 ---
 
 ## Featured Project: HealthCore API
-[![HealthCore API](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/frontend/public/images/project/landingpage5173.png?raw=true)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
+[![HealthCore API](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/frontend/public/images/project/dark_homepage.png?raw=true)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
 **Enterprise Hospital Management Platform** — Production healthcare system with HIPAA-aligned architecture  
-*Django + Go + React/TypeScript · PostgreSQL · Redis · Kafka · MongoDB · Terraform · Azure*
+*Django + Go + React/TypeScript · PostgreSQL · Redis · Kafka · MongoDB · Terraform · Azure · UX loginGoogle · Dark Theme*
 
 ###  System Architecture
 ```mermaid
@@ -87,8 +87,12 @@ graph LR
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-### Architecture Patterns
-`Clean Architecture` · `Hexagonal (Ports & Adapters)` · `Domain-Driven Design` · `Feature-Sliced Design` · `Event-Driven` · `Microservices` · `Modular Monolith`
+
+### Architecture & Patterns
+| Design Strategy | System Structure |
+| :--- | :--- |
+| `DDD` • `Clean Arch` • `Hexagonal` | `Microservices` • `Modular Monolith` |
+| `Event-Driven (EDA)` | `Feature-Sliced Design (FSD)` |
 ---
 ## GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Q-Reis&show_icons=true&theme=tokyonight&hide_border=true)
