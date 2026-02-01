@@ -40,7 +40,7 @@ graph LR
 [![CI](https://img.shields.io/github/actions/workflow/status/Daniel-Q-Reis/HealthCoreAPI/ci.yml?style=flat-square&label=CI)](https://github.com/Daniel-Q-Reis/HealthCoreAPI/actions)
 
 - **Efficiency**: **85% p99 reduction** (180ms → 26ms) via N+1 elimination.
-- **Reliability**: 283 tests, 90%+ coverage, gRPC communication, and HIPAA-aligned.
+- **Reliability**: 283 tests, 90%+ coverage, gRPC communication, HIPAA-aligned and RBAC.
 - **Stack**: Django, Go, React, Kafka, Redis, Terraform, Azure.
 
 > [📂 Source Code](https://github.com/Daniel-Q-Reis/HealthCoreAPI) • [👨‍💻 Developer Docs](https://app.danielqreis.com/dqr-health/developers)
