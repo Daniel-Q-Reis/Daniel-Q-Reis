@@ -1,20 +1,48 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Reis;Full-Cycle+Engineer;Go+%E2%80%A2+Python+%E2%80%A2+React;Building+Production-Grade+Systems)
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daniel+Reis;Full-Cycle+Engineer;Go+%E2%80%A2+Python+%E2%80%A2+React;Building+Production-Grade+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielqreis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielqreis.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielqreis@gmail.com)
-Brazil (UTC-3) · International Contractor (W-8BEN) · EN/PT/ES
+
+`Brazil (UTC-3)` • `International Contractor (W-8BEN)` • `EN/PT/ES`
+</div>
+
 ---
-## About Me
-**Backend Engineer** capable of delivering full-stack solution in **Go**, **Python (Django)**, and **React/TypeScript** with focus on **Clean Architecture**, **Domain-Driven Design**, and **cloud-native systems**.
-Career transition into software development (2025) with intensive hands-on training. Built **12+ projects** demonstrating rapid progression from fundamentals to enterprise-level architecture.
-**Background**: Several years in Operations & Quality Engineering — analytical thinking, systematic problem-solving, and attention to detail now applied to software architecture.
+
+##  About Me
+**Backend Engineer** capable of delivering full-stack solutions in **Go**, **Python (Django)**, and **React/TypeScript** with a focus on **Clean Architecture**, **Domain-Driven Design**, and **cloud-native systems**.
+
+* **Engineering Mindset**: Background in Operations & Quality Engineering — analytical thinking and systematic problem-solving now applied to software architecture.
+* **Rapid Progression**: Built **12+ projects** in 2025, demonstrating a fast transition from fundamentals to enterprise-level distributed systems.
+* **Quality First**: Intensive hands-on training focused on observability, scalability, and production-grade reliability.
+
 ---
+
 ## Featured Project: HealthCore API
 [![HealthCore API](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/frontend/public/images/project/landingpage5173.png?raw=true)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
 **Enterprise Hospital Management Platform** — Production healthcare system with HIPAA-aligned architecture  
 *Django + Go + React/TypeScript · PostgreSQL · Redis · Kafka · MongoDB · Terraform · Azure*
-🚀 **[Live Demo](https://app.danielqreis.com/dqr-health)** · 👨‍💻 **[For Developers](https://app.danielqreis.com/dqr-health/developers)** — API Docs, Metrics & Endpoints
+
+###  System Architecture
+```mermaid
+graph LR
+    User[React/TS Frontend] --> API[Django DRF - Modular Monolith]
+    API --> DB_SQL[(PostgreSQL)]
+    API --> Cache[(Redis)]
+    API -- Async Events --> KAFKA{Apache Kafka}
+    KAFKA --> GO_SVC[Go Audit Microservice]
+    GO_SVC --> DB_NOSQL[(MongoDB)]
+    
+    style API fill:#092e20,stroke:#3b82f6,color:#fff
+    style GO_SVC fill:#00add8,stroke:#3b82f6,color:#fff
+    style KAFKA fill:#231f20,stroke:#fff,color:#fff
+```
+
+ **[Live Demo](https://app.danielqreis.com/dqr-health)** ·  **[For Developers](https://app.danielqreis.com/dqr-health/developers)** — API Docs, Metrics & Endpoints
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github)](https://github.com/Daniel-Q-Reis/HealthCoreAPI)
 [![Showcase](https://img.shields.io/badge/Full_Showcase-blue?style=flat-square)](https://github.com/Daniel-Q-Reis/HealthCoreAPI/blob/main/SHOWCASE.md)
 [![CI](https://img.shields.io/github/actions/workflow/status/Daniel-Q-Reis/HealthCoreAPI/ci.yml?style=flat-square&label=CI)](https://github.com/Daniel-Q-Reis/HealthCoreAPI/actions)
@@ -31,13 +59,12 @@ Career transition into software development (2025) with intensive hands-on train
 | **Resilience** | Circuit Breaker (PyBreaker) · Idempotency Middleware · Retry Logic |
 | **AI Integration** | Gemini 2.5 (drug analysis) · GPT-4 (health recommendations) |
 ---
-## Other Projects
-### [DrugStore API](https://github.com/Daniel-Q-Reis/drugstore_api) — [LIVE DEMO](https://danielqreis.com)
-**Pharmacy SaaS** · Python/Django · AWS (EC2, RDS, S3) · Chart.js Analytics
-### [Social API](https://github.com/Daniel-Q-Reis/social_api)
-**Social Network Backend** · Go · PostgreSQL · Clean Architecture · JWT/RBAC
-### [Goroutines Study](https://github.com/Daniel-Q-Reis/GoroutinesFromBeginningToAdvanced)
-**Go Concurrency Deep Dive** — Built without AI for deep understanding
+
+## 📂 Other Notable Projects
+* **[DrugStore API](https://github.com/Daniel-Q-Reis/drugstore_api)**: Pharmacy SaaS • Python/Django • AWS (EC2, RDS, S3) • Chart.js Analytics.
+* **[Social API](https://github.com/Daniel-Q-Reis/social_api)**: Social Network Backend • Go • PostgreSQL • Clean Architecture • JWT/RBAC.
+* **[Goroutines Study](https://github.com/Daniel-Q-Reis/GoroutinesFromBeginningToAdvanced)**: Go Concurrency Deep Dive — Built without AI for deep understanding.
+
 ---
 ## Tech Stack
 ### Languages & Frameworks
