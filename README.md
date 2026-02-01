@@ -58,6 +58,7 @@ graph LR
 | **Observability** | Prometheus · Grafana Dashboards · Azure Application Insights · Structured Logging |
 | **Resilience** | Circuit Breaker (PyBreaker) · Idempotency Middleware · Retry Logic |
 | **AI Integration** | Gemini 2.5 (drug analysis) · GPT-4 (health recommendations) |
+| **RBAC** | Different access privileges (Doctor, Nurse, Pharmacist, Receptionist, Patient, Admins) |
 ---
 
 ## 📂 Other Notable Projects
