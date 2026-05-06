@@ -9,9 +9,10 @@
 ---
 
 ### ⚡ Quick Trace
-- **Focus**: Scalable APIs & Cloud-Native Systems using **Go**, **Python (Django)**, and **React/TS**.
+- **Focus**: Scalable APIs & Cloud-Native Systems using **Go**, **Python (Django)**, **Node.JS** and **React/TS**.
 - **Background**: Years in Quality Engineering, now applying a "zero-defect" mindset to Software Architecture.
 - **Expertise**: `Clean Architecture` • `DDD` • `Event-Driven Systems` • `Terraform/Azure`.
+- **Portfolio**: [danielqreis.com](https://danielqreis.com)
 
 ---
 
