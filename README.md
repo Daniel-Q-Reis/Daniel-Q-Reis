@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Cycle+Engineer;Go+%E2%80%A2+Python+%E2%80%A2+React;Building+Production-Grade+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Cycle+Engineer;Go+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+React;Building+Production-Grade+Systems" alt="Typing SVG" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielqreis) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://danielqreis.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielqreis@gmail.com)
   
@@ -8,7 +8,7 @@
 
 ---
 
-### ⚡ Quick Trace
+### Quick Trace
 - **Focus**: Scalable APIs & Cloud-Native Systems using **Go**, **Python (Django)**, **Node.JS** and **React/TS**.
 - **Background**: Years in Quality Engineering, now applying a "zero-defect" mindset to Software Architecture.
 - **Expertise**: `Clean Architecture` • `DDD` • `Event-Driven Systems` • `Terraform/Azure`.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Featured System: HealthCore API
+### Featured System: HealthCore API
 *Click the image below for the Live Demo*
 
 <div align="center">
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-#### 🏗️ Architecture & Performance
+#### Architecture & Performance
 ```mermaid
 graph LR
     User[React/TS] --> API[Django Modular Monolith]
@@ -44,11 +44,11 @@ graph LR
 - **Reliability**: 283 tests, 90%+ coverage, gRPC communication, HIPAA-aligned and RBAC.
 - **Stack**: Django, Go, React, Kafka, Redis, Terraform, Azure.
 
-> [📂 Source Code](https://github.com/Daniel-Q-Reis/HealthCoreAPI) • [👨‍💻 Developer Docs](https://app.danielqreis.com/dqr-health/developers)
+> [Source Code](https://github.com/Daniel-Q-Reis/HealthCoreAPI) • [Developer Docs](https://app.danielqreis.com/dqr-health/developers)
 
 ---
 
-### 🛠️ Core Stack
+### Core Stack
 `Languages`: Go, Python, TypeScript | `Infra`: Azure, AWS, Docker, Kubernetes, Terraform | `Data`: PostgreSQL, Redis, MongoDB, Kafka
 
 ---
